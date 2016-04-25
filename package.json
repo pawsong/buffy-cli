@@ -1,0 +1,17 @@
+{
+  "name": "@buffy/cli",
+  "version": "0.1.0",
+  "description": "Buffy cli tool",
+  "bin": {
+    "buffy": "bin/buffy.js"
+  },
+  "main": "bin/buffy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giff Song <giff.song@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
