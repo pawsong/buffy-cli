@@ -1,5 +1,5 @@
 {
-  "name": "@buffy/cli",
+  "name": "buffy-cli",
   "version": "0.1.0",
   "description": "Buffy cli tool",
   "bin": {
